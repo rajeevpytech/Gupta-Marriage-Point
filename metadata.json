@@ -1,0 +1,6 @@
+{
+  "name": "Gupta Marriage Point",
+  "description": "गुप्ता मैरिज पॉइंट - प्रीमियम भारतीय मैट्रिमोनी प्लेटफॉर्म शादी डॉट कॉम की तरह, एआई वॉयस असिस्टेंट और एआई मैचिंग असिस्टेंट के साथ। Android & iOS रेडी।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
